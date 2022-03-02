@@ -1,0 +1,1 @@
+{"appName":"demoapp","userGivenName":"demoapp","destNamespace":"default","destServer":"https://kubernetes.default.svc","srcPath":"apps/demoapp/overlays/my-project","srcRepoURL":"https://github.com/zeqk/my-k8s-cluster.git","srcTargetRevision":"","labels":null}
